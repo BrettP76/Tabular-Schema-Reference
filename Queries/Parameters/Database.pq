@@ -1,0 +1,1 @@
+"AdWorksImport" meta [IsParameterQuery=true, Type="Any", IsParameterQueryRequired=true]
